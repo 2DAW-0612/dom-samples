@@ -21,7 +21,7 @@ Ha de crear tants paràgraf com el valor que indiqui el número introduit per l'
 Eliminar els 2 primers fills d'un div
 
 # Exercici 6. Buscar tots els botons i activar-los
-Afegir dinàmicament una classe `activable` a tots els botons
+Afegir dinàmicament una classe `activable` a tots els botons (sense ids)
 
 # Exercici 7. Crear Paragràf amb botons
 Crear dinàmicament varis `<p>`  amb un botó al seu interior de forma que quan s'apreti el botó s'elimini el respectiu `<p>`.
