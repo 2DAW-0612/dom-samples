@@ -6,3 +6,11 @@ button.activable {
 .exercici9 #contingut {
 	width: 20em;
 }
+
+.exercici10 .error {
+	border:2px solid red;
+}
+
+.exercici10 .success {
+	border: 2px solid green;
+}

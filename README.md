@@ -38,7 +38,7 @@ Afegir paràgraf dinàmicament i mantenir l'historial persistent.
 - En carregar la pàgina mostra tots els paràgraf guardats
 - Afegeix un botó per esborrar l'historial
 
-# Exercici 10. Selector intel·ligent amb validació
+# Exercici 10. Selector  amb validació
 Crea un `<select>` amb opcions carregades des d'un array i valida la selecció.
 - Crea un array d'assignatures i afegeix-les com a `<option>` dins d'un ` <select id="assignatures">`
 - Quan l'usuari selecciona una opció, mostra-la en un `<p>` i desa-la a sessionStorage.
