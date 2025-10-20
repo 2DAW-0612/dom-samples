@@ -14,3 +14,22 @@ button.activable {
 .exercici10 .success {
 	border: 2px solid green;
 }
+
+.exercici11 .contenidor {
+	display: flex;              
+      justify-content: space-around; 
+      align-items: flex-start;    
+      gap: 20px;                  
+      margin: 40px;
+}
+
+.exercici11 section {
+	margin-top: 10px;
+	font-size: 14px;
+	color: #333;  
+	visibility: hidden;
+}
+
+.exercici11 .visible {
+	visibility: visible;
+}
